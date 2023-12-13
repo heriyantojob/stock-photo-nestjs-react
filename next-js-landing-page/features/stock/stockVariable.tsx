@@ -1,0 +1,1 @@
+export const STOCK_LIST =["photos","png","vectors","gifs","videos","music"]

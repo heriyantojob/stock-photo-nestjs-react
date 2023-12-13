@@ -1,0 +1,10 @@
+{
+    "navbar": {
+      "services": "Services A"
+   
+    },
+
+    "footer":"footer lo",
+    "description": "This is a non-page component that requires its own namespace",
+    
+}
